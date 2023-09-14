@@ -2,10 +2,16 @@
     background-color: violet;
 }
 
-.beautifullPrint {
+.beautifullPrintBLUE {
     background-color: rgb(70, 191, 221);
 }
 
 .beautifullPrintRED {
-    background-color: rgb(221, 70, 70);
+    background-color: rgb(228, 87, 87);
+}
+.beautifullPrintGREEN {
+    background-color: rgb(146, 218, 129);
+}
+.beautifullPrintYELLOW {
+    background-color: rgb(236, 227, 90);
 }
