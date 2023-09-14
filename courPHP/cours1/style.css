@@ -1,0 +1,14 @@
+.GrosseBoite {
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: blue; */
+}
+
+.petitebox {
+    max-width: 150px;
+    margin: 20px;   
+    padding: 20px;
+
+    background-color: rgb(214, 209, 209);
+    border-radius: 5px;
+}
